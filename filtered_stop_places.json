@@ -1,0 +1,354 @@
+[
+    {
+        "evaNumber": "694876",
+        "name": "Osterbrookplatz, Hamburg"
+    },
+    {
+        "evaNumber": "694849",
+        "name": "Schadesweg, Hamburg"
+    },
+    {
+        "evaNumber": "692616",
+        "name": "Blankenese (S), Hamburg"
+    },
+    {
+        "evaNumber": "694851",
+        "name": "Ausschläger Weg (LBV), Hamburg"
+    },
+    {
+        "evaNumber": "895125",
+        "name": "Süderstraße, Hamburg"
+    },
+    {
+        "evaNumber": "694847",
+        "name": "Wendenstraße, Hamburg"
+    },
+    {
+        "evaNumber": "895874",
+        "name": "Albertstraße, Hamburg"
+    },
+    {
+        "evaNumber": "895873",
+        "name": "Repsoldstraße, Hamburg"
+    },
+    {
+        "evaNumber": "694825",
+        "name": "Steinstraße (Deichtorplatz) (U), Hamburg"
+    },
+    {
+        "evaNumber": "694879",
+        "name": "HBF/Spitalerstraße, Hamburg"
+    },
+    {
+        "evaNumber": "895932",
+        "name": "Kunsthalle, Hamburg"
+    },
+    {
+        "evaNumber": "694787",
+        "name": "Stephansplatz (U), Hamburg"
+    },
+    {
+        "evaNumber": "694814",
+        "name": "Johannes-Brahms-Platz, Hamburg"
+    },
+    {
+        "evaNumber": "694815",
+        "name": "Handwerkskammer, Hamburg"
+    },
+    {
+        "evaNumber": "694816",
+        "name": "Museum für Hamburgische Geschichte, Hamburg"
+    },
+    {
+        "evaNumber": "692766",
+        "name": "St. Pauli (U), Hamburg"
+    },
+    {
+        "evaNumber": "692765",
+        "name": "Davidstraße, Hamburg"
+    },
+    {
+        "evaNumber": "692764",
+        "name": "Reeperbahn (S), Hamburg"
+    },
+    {
+        "evaNumber": "692760",
+        "name": "Große Bergstraße, Hamburg"
+    },
+    {
+        "evaNumber": "895656",
+        "name": "Goethestraße, Hamburg"
+    },
+    {
+        "evaNumber": "692757",
+        "name": "Bahnhof Altona, Hamburg"
+    },
+    {
+        "evaNumber": "692768",
+        "name": "Rathaus Altona, Hamburg"
+    },
+    {
+        "evaNumber": "692688",
+        "name": "Susettestraße, Hamburg"
+    },
+    {
+        "evaNumber": "692773",
+        "name": "Hohenzollernring (Süd), Hamburg"
+    },
+    {
+        "evaNumber": "895174",
+        "name": "Liebermannstraße, Hamburg"
+    },
+    {
+        "evaNumber": "692775",
+        "name": "Halbmondsweg, Hamburg"
+    },
+    {
+        "evaNumber": "692776",
+        "name": "Zedernweg, Hamburg"
+    },
+    {
+        "evaNumber": "692777",
+        "name": "Holztwiete, Hamburg"
+    },
+    {
+        "evaNumber": "692778",
+        "name": "Teufelsbrück (Fähre), Hamburg"
+    },
+    {
+        "evaNumber": "692779",
+        "name": "Elbschloßstraße (Seegerichtshof), Hamburg"
+    },
+    {
+        "evaNumber": "692780",
+        "name": "Sieberlingstraße, Hamburg"
+    },
+    {
+        "evaNumber": "692649",
+        "name": "Winckelmannstraße, Hamburg"
+    },
+    {
+        "evaNumber": "895240",
+        "name": "Mühlenberg, Hamburg"
+    },
+    {
+        "evaNumber": "694876",
+        "name": "Osterbrookplatz, Hamburg"
+    },
+    {
+        "evaNumber": "694849",
+        "name": "Schadesweg, Hamburg"
+    },
+    {
+        "evaNumber": "692757",
+        "name": "Bahnhof Altona, Hamburg"
+    },
+    {
+        "evaNumber": "694851",
+        "name": "Ausschläger Weg (LBV), Hamburg"
+    },
+    {
+        "evaNumber": "895125",
+        "name": "Süderstraße, Hamburg"
+    },
+    {
+        "evaNumber": "694847",
+        "name": "Wendenstraße, Hamburg"
+    },
+    {
+        "evaNumber": "895874",
+        "name": "Albertstraße, Hamburg"
+    },
+    {
+        "evaNumber": "895873",
+        "name": "Repsoldstraße, Hamburg"
+    },
+    {
+        "evaNumber": "694825",
+        "name": "Steinstraße (Deichtorplatz) (U), Hamburg"
+    },
+    {
+        "evaNumber": "694879",
+        "name": "HBF/Spitalerstraße, Hamburg"
+    },
+    {
+        "evaNumber": "895932",
+        "name": "Kunsthalle, Hamburg"
+    },
+    {
+        "evaNumber": "694787",
+        "name": "Stephansplatz (U), Hamburg"
+    },
+    {
+        "evaNumber": "694814",
+        "name": "Johannes-Brahms-Platz, Hamburg"
+    },
+    {
+        "evaNumber": "694815",
+        "name": "Handwerkskammer, Hamburg"
+    },
+    {
+        "evaNumber": "694816",
+        "name": "Museum für Hamburgische Geschichte, Hamburg"
+    },
+    {
+        "evaNumber": "692766",
+        "name": "St. Pauli (U), Hamburg"
+    },
+    {
+        "evaNumber": "692765",
+        "name": "Davidstraße, Hamburg"
+    },
+    {
+        "evaNumber": "692764",
+        "name": "Reeperbahn (S), Hamburg"
+    },
+    {
+        "evaNumber": "692760",
+        "name": "Große Bergstraße, Hamburg"
+    },
+    {
+        "evaNumber": "895656",
+        "name": "Goethestraße, Hamburg"
+    },
+    {
+        "evaNumber": "694876",
+        "name": "Osterbrookplatz, Hamburg"
+    },
+    {
+        "evaNumber": "694849",
+        "name": "Schadesweg, Hamburg"
+    },
+    {
+        "evaNumber": "692616",
+        "name": "Blankenese (S), Hamburg"
+    },
+    {
+        "evaNumber": "694851",
+        "name": "Ausschläger Weg (LBV), Hamburg"
+    },
+    {
+        "evaNumber": "895125",
+        "name": "Süderstraße, Hamburg"
+    },
+    {
+        "evaNumber": "694847",
+        "name": "Wendenstraße, Hamburg"
+    },
+    {
+        "evaNumber": "895874",
+        "name": "Albertstraße, Hamburg"
+    },
+    {
+        "evaNumber": "895873",
+        "name": "Repsoldstraße, Hamburg"
+    },
+    {
+        "evaNumber": "694825",
+        "name": "Steinstraße (Deichtorplatz) (U), Hamburg"
+    },
+    {
+        "evaNumber": "694879",
+        "name": "HBF/Spitalerstraße, Hamburg"
+    },
+    {
+        "evaNumber": "895932",
+        "name": "Kunsthalle, Hamburg"
+    },
+    {
+        "evaNumber": "694787",
+        "name": "Stephansplatz (U), Hamburg"
+    },
+    {
+        "evaNumber": "694814",
+        "name": "Johannes-Brahms-Platz, Hamburg"
+    },
+    {
+        "evaNumber": "694815",
+        "name": "Handwerkskammer, Hamburg"
+    },
+    {
+        "evaNumber": "694816",
+        "name": "Museum für Hamburgische Geschichte, Hamburg"
+    },
+    {
+        "evaNumber": "692766",
+        "name": "St. Pauli (U), Hamburg"
+    },
+    {
+        "evaNumber": "692765",
+        "name": "Davidstraße, Hamburg"
+    },
+    {
+        "evaNumber": "692764",
+        "name": "Reeperbahn (S), Hamburg"
+    },
+    {
+        "evaNumber": "692760",
+        "name": "Große Bergstraße, Hamburg"
+    },
+    {
+        "evaNumber": "895656",
+        "name": "Goethestraße, Hamburg"
+    },
+    {
+        "evaNumber": "692757",
+        "name": "Bahnhof Altona, Hamburg"
+    },
+    {
+        "evaNumber": "692768",
+        "name": "Rathaus Altona, Hamburg"
+    },
+    {
+        "evaNumber": "692688",
+        "name": "Susettestraße, Hamburg"
+    },
+    {
+        "evaNumber": "692773",
+        "name": "Hohenzollernring (Süd), Hamburg"
+    },
+    {
+        "evaNumber": "895174",
+        "name": "Liebermannstraße, Hamburg"
+    },
+    {
+        "evaNumber": "692775",
+        "name": "Halbmondsweg, Hamburg"
+    },
+    {
+        "evaNumber": "692776",
+        "name": "Zedernweg, Hamburg"
+    },
+    {
+        "evaNumber": "692777",
+        "name": "Holztwiete, Hamburg"
+    },
+    {
+        "evaNumber": "692778",
+        "name": "Teufelsbrück (Fähre), Hamburg"
+    },
+    {
+        "evaNumber": "692779",
+        "name": "Elbschloßstraße (Seegerichtshof), Hamburg"
+    },
+    {
+        "evaNumber": "692780",
+        "name": "Sieberlingstraße, Hamburg"
+    },
+    {
+        "evaNumber": "692649",
+        "name": "Winckelmannstraße, Hamburg"
+    },
+    {
+        "evaNumber": "895240",
+        "name": "Mühlenberg, Hamburg"
+    },
+    {
+        "evaNumber": "694876",
+        "name": "Osterbrookplatz, Hamburg"
+    },
+    {
+        "evaNumber": "694849",
+        "name": "Schadesweg, Hamburg"
+    }
+]

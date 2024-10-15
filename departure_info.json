@@ -1,0 +1,281 @@
+{
+    "departures": [
+        {
+            "station": {
+                "evaNumber": "694850",
+                "name": "Luisenweg, Hamburg"
+            },
+            "journeyID": "20241014-440839d2-7662-3ffa-8609-63042d9399e7",
+            "timeSchedule": "2024-10-14T23:19:00+02:00",
+            "timeType": "PREVIEW",
+            "time": "2024-10-14T23:19:00+02:00",
+            "onDemand": false,
+            "platformSchedule": "",
+            "platform": "",
+            "administration": {
+                "administrationID": "hvvHHA",
+                "operatorCode": "DPN",
+                "operatorName": "Nahreisezug"
+            },
+            "messages": [],
+            "disruptions": [],
+            "attributes": [
+                {
+                    "displayPriority": null,
+                    "displayPriorityDetail": null,
+                    "code": "RG",
+                    "text": "Behindertengerechtes Fahrzeug"
+                }
+            ],
+            "departureID": "694850_D_1",
+            "transport": {
+                "type": "BUS",
+                "category": "Bus",
+                "number": 382,
+                "line": "112",
+                "label": "",
+                "replacementTransport": null,
+                "direction": {
+                    "text": null,
+                    "stopPlaces": [
+                        {
+                            "evaNumber": "692616",
+                            "name": "Blankenese (S), Hamburg"
+                        }
+                    ]
+                },
+                "journeyID": "20241014-440839d2-7662-3ffa-8609-63042d9399e7",
+                "destination": {
+                    "evaNumber": "692616",
+                    "name": "Blankenese (S), Hamburg",
+                    "canceled": false
+                },
+                "differingDestination": null,
+                "via": [
+                    {
+                        "evaNumber": "694851",
+                        "name": "Ausschläger Weg (LBV), Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 1
+                    },
+                    {
+                        "evaNumber": "895125",
+                        "name": "Süderstraße, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 2
+                    },
+                    {
+                        "evaNumber": "694847",
+                        "name": "Wendenstraße, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 3
+                    },
+                    {
+                        "evaNumber": "895874",
+                        "name": "Albertstraße, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 4
+                    },
+                    {
+                        "evaNumber": "895873",
+                        "name": "Repsoldstraße, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 5
+                    },
+                    {
+                        "evaNumber": "694825",
+                        "name": "Steinstraße (Deichtorplatz) (U), Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 6
+                    },
+                    {
+                        "evaNumber": "694879",
+                        "name": "HBF/Spitalerstraße, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 7
+                    },
+                    {
+                        "evaNumber": "895932",
+                        "name": "Kunsthalle, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 8
+                    },
+                    {
+                        "evaNumber": "694787",
+                        "name": "Stephansplatz (U), Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 9
+                    },
+                    {
+                        "evaNumber": "694814",
+                        "name": "Johannes-Brahms-Platz, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 10
+                    },
+                    {
+                        "evaNumber": "694815",
+                        "name": "Handwerkskammer, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 11
+                    },
+                    {
+                        "evaNumber": "694816",
+                        "name": "Museum für Hamburgische Geschichte, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 12
+                    },
+                    {
+                        "evaNumber": "692766",
+                        "name": "St. Pauli (U), Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 13
+                    },
+                    {
+                        "evaNumber": "692765",
+                        "name": "Davidstraße, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 14
+                    },
+                    {
+                        "evaNumber": "692764",
+                        "name": "Reeperbahn (S), Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 15
+                    },
+                    {
+                        "evaNumber": "692760",
+                        "name": "Große Bergstraße, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 16
+                    },
+                    {
+                        "evaNumber": "895656",
+                        "name": "Goethestraße, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 17
+                    },
+                    {
+                        "evaNumber": "692757",
+                        "name": "Bahnhof Altona, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 18
+                    },
+                    {
+                        "evaNumber": "692768",
+                        "name": "Rathaus Altona, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 19
+                    },
+                    {
+                        "evaNumber": "692688",
+                        "name": "Susettestraße, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 20
+                    },
+                    {
+                        "evaNumber": "692773",
+                        "name": "Hohenzollernring (Süd), Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 21
+                    },
+                    {
+                        "evaNumber": "895174",
+                        "name": "Liebermannstraße, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 22
+                    },
+                    {
+                        "evaNumber": "692775",
+                        "name": "Halbmondsweg, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 23
+                    },
+                    {
+                        "evaNumber": "692776",
+                        "name": "Zedernweg, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 24
+                    },
+                    {
+                        "evaNumber": "692777",
+                        "name": "Holztwiete, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 25
+                    },
+                    {
+                        "evaNumber": "692778",
+                        "name": "Teufelsbrück (Fähre), Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 26
+                    },
+                    {
+                        "evaNumber": "692779",
+                        "name": "Elbschloßstraße (Seegerichtshof), Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 27
+                    },
+                    {
+                        "evaNumber": "692780",
+                        "name": "Sieberlingstraße, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 28
+                    },
+                    {
+                        "evaNumber": "692649",
+                        "name": "Winckelmannstraße, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 29
+                    },
+                    {
+                        "evaNumber": "895240",
+                        "name": "Mühlenberg, Hamburg",
+                        "canceled": false,
+                        "additional": false,
+                        "displayPriority": 30
+                    }
+                ]
+            },
+            "journeyType": "REGULAR",
+            "additional": false,
+            "canceled": false,
+            "reliefFor": [],
+            "reliefBy": [],
+            "replacementFor": [],
+            "replacedBy": [],
+            "continuationBy": null,
+            "travelsWith": [],
+            "codeshares": [],
+            "futureDisruptions": false
+        }
+    ],
+    "disruptions": []
+}
